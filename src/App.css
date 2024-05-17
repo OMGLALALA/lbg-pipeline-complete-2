@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 20px solid rgb(8, 3, 3);
   padding: 10px;
 }
 
@@ -13,11 +13,11 @@
 }
 
 h1 { 
-    color: maroon;
+    color: rgb(47, 1, 252);
 }
 
 h3 { 
-  color: slategray;
+  color: rgb(1, 204, 255);
 }
 
 body  {
